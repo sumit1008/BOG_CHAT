@@ -1,0 +1,12 @@
+streamlit
+pdfplumber
+pandas
+sentence-transformers
+numpy
+faiss-cpu
+transformers
+torch
+
+
+python-docx
+langchain_community
